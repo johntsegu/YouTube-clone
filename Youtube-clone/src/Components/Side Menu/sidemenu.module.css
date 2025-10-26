@@ -5,7 +5,7 @@ top: 140px;
 width: 5%;
 height: 70vh;
 /* margin-top:-20px ; */
-/* z-index: 1; */
+z-index: 1;
 color: rgb(246, 242, 242);
 margin-top: -40px;
 }
