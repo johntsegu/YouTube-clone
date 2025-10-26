@@ -1,6 +1,6 @@
 import React from "react";
 import style from "./header.module.css";
-import youtubelogo from '../../assets/logo4.png'
+import youtubelogo from '../../assets/logo.svg'
 import MenuIcon from '@mui/icons-material/Menu';
 import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
 import PanoramaFishEyeIcon from '@mui/icons-material/PanoramaFishEye';

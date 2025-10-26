@@ -14,6 +14,7 @@ ul li a {
   justify-content: center;
   padding-bottom: 15px;
   overflow: hidden;
+  z-index: 1;
 }
 
 .header {
@@ -201,4 +202,13 @@ ul li a {
   .input {
     display: none;
   }
-}
+  .youtube_text{
+    display: none;
+  }
+  .container{
+    margin:20px;
+  }
+  .recored_icon{
+    display: none;
+  }
+}       

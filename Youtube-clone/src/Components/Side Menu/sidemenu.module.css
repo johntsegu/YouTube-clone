@@ -1,0 +1,30 @@
+.outer_sidemenu{
+background-color: #0f0f0f;;
+position: sticky;
+top: 140px;
+width: 5%;
+height: 70vh;
+/* margin-top:-20px ; */
+/* z-index: 1; */
+color: rgb(246, 242, 242);
+margin-top: -40px;
+}
+.inner_sidemenu ul{
+    /* background-color: brow; */
+    /* width: 90%; */
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    text-align: center;
+}
+.inner_sidemenu ul li p{
+    font-size: 10px;
+}
+
+
+@media (max-width: 768px) {
+  .outer_sidemenu{
+    display: none;
+  }
+}
